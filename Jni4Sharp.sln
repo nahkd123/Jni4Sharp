@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jni4Sharp.Base", "Jni4Sharp.Base\Jni4Sharp.Base.csproj", "{10345F6C-0F2B-4E37-A3F3-2D4016EE6DE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jni4Sharp.SampleLibrary", "Jni4Sharp.SampleLibrary\Jni4Sharp.SampleLibrary.csproj", "{0D96D038-97DF-477D-8EA5-2BEE59C78C19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10345F6C-0F2B-4E37-A3F3-2D4016EE6DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10345F6C-0F2B-4E37-A3F3-2D4016EE6DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10345F6C-0F2B-4E37-A3F3-2D4016EE6DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10345F6C-0F2B-4E37-A3F3-2D4016EE6DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D96D038-97DF-477D-8EA5-2BEE59C78C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D96D038-97DF-477D-8EA5-2BEE59C78C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D96D038-97DF-477D-8EA5-2BEE59C78C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D96D038-97DF-477D-8EA5-2BEE59C78C19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A77AE77-8540-4DA2-9E28-76F8C2A0D71B}
+	EndGlobalSection
+EndGlobal
